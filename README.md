@@ -38,6 +38,7 @@ After the installation, you can use this button to install the integration:
 - EP600 (tested)
 - EP760 (basic data)
 - EP800 (basic data)
+- EP2000 (PV data working, rest not tested and not enabled in EP2000-py)
 
 ### Available controls:
 If enabled in the Integration options (you need to reload the integration if you change this option):
