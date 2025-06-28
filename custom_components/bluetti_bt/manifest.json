@@ -17,7 +17,7 @@
         { "local_name": "EP2000*" },
         { "local_name": "EBOX*" }
         
-        { "local_name": "PBOX*" }
+
     ],
     "codeowners": ["@Patrick762"],
     "config_flow": true,
